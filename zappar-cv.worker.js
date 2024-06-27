@@ -2099,7 +2099,7 @@ Jason Diamond, Patrick Hof, Nochum Sossonko, Andreas Schneider, Dave Vasilevsky,
 1013
                     $c: function(e, t) {
 1014
-                        null === t || 10 === t ? (p(M(e.wc, 0)), e.wc = []) : 0 != t && e.wc.push(t)
+                        null === t || 10 === t ? e.wc.push(t) : 0 != t && e.wc.push(t)
 1015
                     },
 1016
