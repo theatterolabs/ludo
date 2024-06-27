@@ -4129,8 +4129,8 @@
                         return null === (t = tt(e)) || void 0 === t ? void 0 : t.destroy()
                     },
                     camera_source_pause: e => {
-                        var t;
-                        return null === (t = tt(e)) || void 0 === t ? void 0 : t.pause()
+                        /* var t;
+                        return null === (t = tt(e)) || void 0 === t ? void 0 : t.pause() */
                     },
                     camera_source_start: e => {
                         var t;
