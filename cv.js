@@ -769,7 +769,7 @@
                 enumerable: !0,
                 get: t[i]
             })
-        }, r.u = e => e + ".zappar-cv.js", r.g = function() {
+        }, r.u = e => e + ".cv.js", r.g = function() {
             if ("object" == typeof globalThis) return globalThis;
             try {
                 return this || new Function("return this")()
