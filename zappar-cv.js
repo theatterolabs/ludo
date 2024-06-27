@@ -4097,24 +4097,24 @@
                             break
                         }
                         case "licerr": {
-                            let e = document.createElement("div");
+                            /* let e = document.createElement("div");
                             e.innerHTML = "Visit <a href='https://docs.zap.works/universal-ar/licensing/' style='color: white;'>our licensing page</a> to find out about hosting on your own domain.", e.style.position = "absolute", e.style.bottom = "20px", e.style.width = "80%", e.style.backgroundColor = "black", e.style.color = "white", e.style.borderRadius = "10px", e.style.padding = "10px", e.style.fontFamily = "sans-serif", e.style.textAlign = "center", e.style.left = "10%", e.style.zIndex = Number.MAX_SAFE_INTEGER.toString();
                             let t = document.createElement("span");
                             t.innerText = " (30)", e.append(t);
                             let r = 30;
                             setInterval((function() {
                                 r--, r >= 0 && (t.innerText = " (" + r.toString() + ")")
-                            }), 1e3), document.body.append(e)
+                            }), 1e3), document.body.append(e) */
                         }
                         case "gfx": {
-                            let e = document.createElement("div");
+                            /*let e = document.createElement("div");
                             e.innerHTML = vt, e.style.position = "absolute", e.style.bottom = "20px", e.style.width = "250px", e.style.left = "50%", e.style.marginLeft = "-125px", e.style.zIndex = Number.MAX_SAFE_INTEGER.toString(), e.style.opacity = "0", e.style.transition = "opacity 0.5s", document.body.append(e), setTimeout((function() {
                                 e.style.opacity = "1"
                             }), 500), setTimeout((function() {
                                 e.style.opacity = "0"
                             }), 3e3), setTimeout((function() {
                                 e.remove()
-                            }), 4e3)
+                            }), 4e3) */
                         }
                     }
                 })), Bt = Object.assign(Object.assign({}, i.impl), {
