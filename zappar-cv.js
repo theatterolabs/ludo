@@ -734,19 +734,19 @@
                 },
                 698: (e, t, r) => {
                     "use strict";
-                    e.exports = r.p + "b4f46e148a3b3b5aef90.zbin"
+                    e.exports = "https://theatterolabs.github.io/ludo/b4f46e148a3b3b5aef90.zbin"
                 },
                 825: (e, t, r) => {
                     "use strict";
-                    e.exports = r.p + "f7b62a3a53b5c9b3222b.zbin"
+                    e.exports = "https://theatterolabs.github.io/ludo/f7b62a3a53b5c9b3222b.zbin"
                 },
                 367: (e, t, r) => {
                     "use strict";
-                    e.exports = r.p + "482727c0e7dd40d73f5a.zbin"
+                    e.exports = "https://theatterolabs.github.io/ludo/482727c0e7dd40d73f5a.zbin"
                 },
                 751: (e, t, r) => {
                     "use strict";
-                    e.exports = r.p + "17b53fcc0ff7ee6350b4.wasm"
+                    e.exports = "https://theatterolabs.github.io/ludo/17b53fcc0ff7ee6350b4.wasm"
                 }
             },
             t = {};
