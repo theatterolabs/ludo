@@ -4125,8 +4125,8 @@
                         return D.preferMediaStreamTrackProcessorCamera && "MediaStreamTrackProcessor" in window && "MediaStreamTrackGenerator" in window ? et(r, new Je(r, e, t)) : D.preferImageBitmapCamera && "undefined" != typeof OffscreenCanvas ? et(r, new Ze(r, e, t)) : et(r, new Xe(r, e, t)), pe("camera_source_t initialized"), r
                     }(e, t),
                     camera_source_destroy: e => {
-                        var t;
-                        return null === (t = tt(e)) || void 0 === t ? void 0 : t.destroy()
+                        /*var t;
+                        return null === (t = tt(e)) || void 0 === t ? void 0 : t.destroy()*/
                     },
                     camera_source_pause: e => {
                         /* var t;
