@@ -769,7 +769,7 @@
                 enumerable: !0,
                 get: t[i]
             })
-        }, r.u = e => e + ".cv.js", r.g = function() {
+        }, r.u = e => e + ".zappar-cv.js", r.g = function() {
             if ("object" == typeof globalThis) return globalThis;
             try {
                 return this || new Function("return this")()
@@ -4068,7 +4068,7 @@
                     return e
                 }();
                 let n = !1;
-                if (window.location.hostname.toLowerCase().indexOf(".zappar.io") > 0 || window.location.hostname.toLowerCase().indexOf(".webar.run") > 0) {
+                if (window.location.hostname.toLowerCase().indexOf(".github.io") > 0 || window.location.hostname.toLowerCase().indexOf(".webar.run") > 0) {
                     let e = window.location.pathname.split("/");
                     e.length > 1 && e[1].length > 0 && i.impl.analytics_project_id_set(".wiz" + e[1], a)
                 }
