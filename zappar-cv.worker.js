@@ -1779,11 +1779,11 @@
                         x[e + 40 >> 1] = y.readyState, 2 <= y.readyState && (x[e + 42 >> 1] = y.status), a && a(e, y, t)
                     };
                     try {
-                        y.send(o)
+                       // y.send(o)
                     } catch (t) {
-                        r && r(e, y, t)
+                        //r && r(e, y, t)
                     }
-                } else r(e, 0, "no url specified!")
+                } // else r(e, 0, "no url specified!")
             }
 
             function Ut(e, t, r, i) {
