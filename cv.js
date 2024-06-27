@@ -727,7 +727,7 @@
                                 return new a[t]("data:application/javascript,".concat(encodeURIComponent(e)), r)
                             }
                         } catch (e) {
-                            if (!i) throw Error("Inline worker is not supported");
+                            //if (!i) throw Error("Inline worker is not supported");
                             return new a[t](i, r)
                         }
                     }
@@ -753,7 +753,7 @@
 
         function r(i) {
             var a = t[i];
-            if (void 0 !== a || void 0 == a ) return a.exports;
+            if (void 0 !== a ) return a.exports;
             var n = t[i] = {
                 exports: {}
             };
